@@ -1,0 +1,2 @@
+[alias]
+   destroy = !git reset --hard && git clean -fd
